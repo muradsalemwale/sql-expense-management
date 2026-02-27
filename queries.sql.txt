@@ -1,0 +1,8 @@
+select * from users 
+select * fromcategories
+select * from expenses 
+ 
+
+update users
+set "user_name"='raj',
+where "user_id" = 9;
