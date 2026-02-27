@@ -1,5 +1,5 @@
 insert into users
-(user_id,user_name,email ),
+(user_id,user_name,email )
 values
 (1,'murad','murad@gmail.com'),
 (2,'sahil','sahil@gmail.com'),
@@ -37,3 +37,4 @@ values
 (8, 6, 3, 750, '2026-02-10'),
 (9, 7, 4, 1100, '2026-02-11'),
 (10, 8, 1, 450, '2026-02-12');
+
